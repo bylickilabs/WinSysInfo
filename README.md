@@ -1,8 +1,5 @@
-|![GitHub](https://img.shields.io/badge/GitHub-bylickilabs-181717?style=for-the-badge&logo=github)|
-|---|
-
-|![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)|![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)|
-|---|---|
+|![GitHub](https://img.shields.io/badge/GitHub-bylickilabs-181717?style=for-the-badge&logo=github)|![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)|![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)|
+|---|---|---|
 
 |![UI](https://img.shields.io/badge/UI-Neon%20Style-ff00ff?style=for-the-badge)|![Localhost](https://img.shields.io/badge/Localhost-3000/5000-critical?style=for-the-badge)|![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)|
 |---|---|---|
