@@ -1,0 +1,11 @@
+
+{
+  "name": "win-sysinfo-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "systeminformation": "^5.11.17"
+  }
+}
