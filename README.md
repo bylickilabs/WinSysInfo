@@ -4,7 +4,7 @@
 |![UI](https://img.shields.io/badge/UI-Neon%20Style-ff00ff?style=for-the-badge)|![Localhost](https://img.shields.io/badge/Localhost-3000/5000-critical?style=for-the-badge)|![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)|![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)|![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge&logo=windows)|
 |---|---|---|---|---|
 
-|![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)|![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express)|![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)|![API](https://img.shields.io/badge/API-RESTful-ff9800?style=for-the-badge)|![System](https://img.shields.io/badge/Systeminformation-v5.11.x-informational?style=for-the-badge)|
+|![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)|![Backend](https://img.shields.io/badge/Backend-Express-000000?style=for-the-badge&logo=express)|![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)|![API](https://img.shields.io/badge/API-RESTful-ff9800?style=for-the-badge)|![System](https://img.shields.io/badge/Systeminformation-v1.0.0-informational?style=for-the-badge)|
 |---|---|---|---|---|
 
 ## 🖥️ WinSysInfo
